@@ -1,0 +1,9 @@
+.icon_group {
+    width: 180px;
+    height: 222px;
+    background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F615%2F615075.png&tbnid=_3mLgdWnkmEyPM&vet=12ahUKEwiNzpKfgMiEAxWKTaQEHdsLBUMQMygBegQIARA1..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgroup_615075&docid=HoP0tlcogEo8VM&w=512&h=512&q=group%20icon.png&ved=2ahUKEwiNzpKfgMiEAxWKTaQEHdsLBUMQMygBegQIARA1");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left center;
+    margin-left: 20px;
+}

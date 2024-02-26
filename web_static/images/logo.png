@@ -1,0 +1,9 @@
+.logo {
+    width: 237px;
+    height: 213px;
+    background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F99184393%2F185779974-a31a9f47-f8d3-42ea-b7f8-4a2971774615.png&tbnid=U7we1sxf9qd2kM&vet=12ahUKEwiE7KDL_MeEAxWTdKQEHTpEBrwQMygEegQIARA7..i&imgrefurl=https%3A%2F%2Fcodesandbox.io%2Fp%2Fgithub%2Fotaki0413%2FAirbnb-Clone%2Fmain&docid=cOEwjTybrp_TaM&w=439&h=480&q=Airbnb%20clone%20logo.png&ved=2ahUKEwiE7KDL_MeEAxWTdKQEHTpEBrwQMygEegQIARA7"); 
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left center;
+    margin-left: 20px;
+}
